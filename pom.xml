@@ -30,6 +30,6 @@
             </configuration>
         </plugin>
     </plugins>
+    <finalName>WebApp</finalName>
   </build>
-  <finalName>WebApp</finalName>
 </project>
