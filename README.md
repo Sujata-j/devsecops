@@ -1,2 +1,0 @@
-# devsecops
-demo devsecops
